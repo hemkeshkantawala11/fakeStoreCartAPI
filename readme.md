@@ -37,3 +37,14 @@ To use this all you have to:
 
 - Spring Boot documentation - [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
 - Scaler Class of Naman Bhalla sir 😂 (Scaler Dashboard Kholunga toh lagega copy kiya hai toh sorry link nai de sakta 😂)
+
+## screenshots
+<img width="958" alt="photo 1" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/b28c5bad-4718-4c4d-a10f-204f9071223a">
+<img width="959" alt="photo 2" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/126d4ceb-8b02-4ddf-9d14-8918ac39f609">
+<img width="959" alt="photo 4" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/a2d654b7-86ae-41d4-80a4-472c287141e5">
+
+<img width="959" alt="photo 1 png3" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/a8f586ca-4734-4fe8-b35d-ccc95e2be4bb">
+
+
+<img width="650" alt="photo 5" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/0aa2165c-dd37-46df-b4b7-dc09419672fd">
+
