@@ -35,5 +35,5 @@ To use this all you have to:
 
 ## References
 
-- [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
+- Spring Boot documentation - [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
 - Scaler Class of Naman Bhalla sir 😂 (Scaler Dashboard Kholunga toh lagega copy kiya hai toh sorry link nai de sakta 😂)
