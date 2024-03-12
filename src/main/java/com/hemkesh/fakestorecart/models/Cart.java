@@ -8,9 +8,9 @@ import java.util.*;
 @Getter
 @Setter
 public class Cart {
-    private Long Id;
+    private Long id;
     private Long userId;
-    private String Date;
+    private String date;
     private List<Products> products;
     private String __v;
 
