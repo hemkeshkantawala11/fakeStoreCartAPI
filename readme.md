@@ -36,7 +36,6 @@ To use this all you have to:
 ## References
 
 - Spring Boot documentation - [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
-- Scaler Class of Naman Bhalla sir 😂 (Scaler Dashboard Kholunga toh lagega copy kiya hai toh sorry link nai de sakta 😂)
 
 ## screenshots
 <img width="958" alt="photo 1" src="https://github.com/hemkeshkantawala11/fakeStoreCartAPI/assets/69465164/b28c5bad-4718-4c4d-a10f-204f9071223a">
